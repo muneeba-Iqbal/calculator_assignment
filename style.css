@@ -1,0 +1,18 @@
+body{
+    margin: 0px auto; 
+
+}
+.container{
+    text-align: center;
+    width: 40%;
+}
+button{
+    width: 100% !important;
+    height: 50px !important;
+}
+.alert, b{
+    font-size: 25px;
+}
+.card{
+    background-color: black;
+}
